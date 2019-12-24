@@ -21,9 +21,9 @@ image: /thumbnail-jumbo.png
 
 
 plugins:
-  - jekyll-feed
+- jekyll-feed
   
-  gems:
+gems:
 - jekyll-seo-tag
   
 
