@@ -21,7 +21,6 @@ image: /thumbnail-jumbo.png
 
 
 plugins:
-  - jekyll-target-blank
   - jekyll-feed
   
   gems:
