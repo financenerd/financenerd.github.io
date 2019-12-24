@@ -7,7 +7,9 @@ ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://financenerd.github.io/)
+This blog is about smart investing, financial independence in Switzerland.
+
+This site is work in progress - stay tuned!
 
 
 [Go to the Home Page](https://financenerd.github.io/)
