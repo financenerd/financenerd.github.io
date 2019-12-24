@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Welcome!
+Content is coming up soon!
