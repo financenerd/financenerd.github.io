@@ -79,10 +79,10 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 
 - Balancing these competing considerations, a final (simple) allocation to diverse asset classes using (cost effective) Vanguard ETFs:
 
-    20%   cash 
-    40%	  VT (total market, ~50-60% US, 20-30% developed ex-US)
-    20%   VBR (small-cap value, with traditionally higher returns than the S&P500)
-    20%   VWO (emerging markets)
+   - 20%   cash 
+   - 40%	  VT (total market, ~50-60% US, 20-30% developed ex-US)
+   - 20%   VBR (small-cap value, with traditionally higher returns than the S&P500)
+   - 20%   VWO (emerging markets)
 
  Investing schedule:
    - Invest at the end of each month
