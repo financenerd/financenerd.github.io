@@ -30,16 +30,16 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 - Sequence-of-returns risk therefore matters, unlimited volatility is undesirable
 
 ### Risk preference
-  -- I am young (28 years) and my time horizon is fairly long. Thus, I somewhat accept the historical volatilities of the total stock market for now (up to 10-20 year stretches of negative returns!)
-  -- However, the older I become, the more I will need to emphasize more limited volatility in my future asset allocation
-  -- Also, the psychological burden of decades of underperformance will be increasingly challenging (who wants to see his/her money lose its value month after month for years?)
-  -- Also must hedge against non-market personal financial exposure: I want to hedge my personal and professional commitment to Switzerland by overweighting US markets
+- I am young (28 years) and my time horizon is fairly long. Thus, I somewhat accept the historical volatilities of the total stock market for now (up to 10-20 year stretches of negative returns!)
+- However, the older I become, the more I will need to emphasize more limited volatility in my future asset allocation
+- Also, the psychological burden of decades of underperformance will be increasingly challenging (who wants to see his/her money lose its value month after month for years?)
+- Also must hedge against non-market personal financial exposure: I want to hedge my personal and professional commitment to Switzerland by overweighting US markets
 
 ### Performance targets and criteria
-  -- Manageable complexity
-  -- Average annual real returns 1972-present at least 6-8% (vs. 7.5% for total stock market)
-  -- Longest drawdown < 10 yrs (vs. 13 yrs for US total stock mkt)
-  -- Finally, both to limit complexity and for professional reasons, no active investing and no individual stocks at this time
+- Manageable complexity
+- Average annual real returns 1972-present at least 6-8% (vs. 7.5% for total stock market)
+- Longest drawdown < 10 yrs (vs. 13 yrs for US total stock mkt)
+- Finally, both to limit complexity and for professional reasons, no active investing and no individual stocks at this time
 
 
 ## Asset allocation, fund selection, and fund placement
@@ -52,28 +52,28 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 ### Cash and fixed income investment
 
 - In current environment, bonds are unattractive
-      -- short term bonds have yields ~ savings account
-      -- long term bonds lock me into longterm low yields
-      -- bond funds will lose value if rates rise
+  - short term bonds have yields ~ savings account
+  - long term bonds lock me into longterm low yields
+  - bond funds will lose value if rates rise
   
 ### Equity allocation
 
 - Intellectual starting point: "Own the market".  Approximate as VT ETF / Total World.
--- Note: US companies are overrepresented (55% of VT, vs. 16% US share of world GDP) -- yes, many sell internationally, but so do Chinese- or EU-based companies; it's still an overweight due to the fact that Saudi Aramco, much of China, etc. is simply not publicly traded
--- However, I do wish to overweight the US given my exposure to the European continent at the moment
+  - Note: US companies are overrepresented (55% of VT, vs. 16% US share of world GDP) -- yes, many sell internationally, but so do Chinese- or EU-based companies; it's still an overweight due to the fact that Saudi Aramco, much of China, etc. is simply not publicly traded
+  - However, I do wish to overweight the US given my exposure to the European continent at the moment
 
 - Overweight certain asset classes that provide a hedge against personal dependencies:
--- Overweight medium-small companies given my work as a consultant for large companies
--- Pivot away from Europe (I live and work in Switzerland, which is highly exposed to the EU. I wish to increase exposure to the rest of the world for diversification. Additionally, Europe bears increased risk given the instability of the Euro, market distortion through the ECB and levels of regulation)
+  - Overweight medium-small companies given my work as a consultant for large companies
+  - Pivot away from Europe (I live and work in Switzerland, which is highly exposed to the EU. I wish to increase exposure to the rest of the world for diversification. Additionally, Europe bears increased risk given the instability of the Euro, market distortion through the ECB and levels of regulation)
 - Can overweight individually volatile but collectively diversified asset classes with expected returns > S&P500:
--- Overweight emerging markets, in a secular bet on the Great Rebalancing
--- Overweight small-cap value stocks, for higher returns at the price of higher volatility and lower liquidity
+  - Overweight emerging markets, in a secular bet on the Great Rebalancing
+  - Overweight small-cap value stocks, for higher returns at the price of higher volatility and lower liquidity
    
 - There are good reasons to limit the extent of diversification / tilting:
-    -- Having multiple assets invites bad psychology - e.g. overweighting recent overperformers, market timing, etc.
-    -- Need to rebalance can initially be satisfied from new savings, but ultimately may require tax-inefficient selling
-    -- Complexity is a time sink, and one might overlook changes within funds
-    -- It may simply be unnecessary: The lower volatility may not matter on long-enough time scales, and the expected returns won't exceed VT (much)
+  - Having multiple assets invites bad psychology - e.g. overweighting recent overperformers, market timing, etc.
+  - Need to rebalance can initially be satisfied from new savings, but ultimately may require tax-inefficient selling
+  - Complexity is a time sink, and one might overlook changes within funds
+  - It may simply be unnecessary: The lower volatility may not matter on long-enough time scales, and the expected returns won't exceed VT (much)
 
 
 
@@ -87,19 +87,20 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
     ------------
 
  Investing schedule:
-     -- Invest at the end of each month
-     -- Rebalance annually with bonus + spare cash; avoid selling to rebalance
-     -- Rebalance to target allocation
+   - Invest at the end of each month
+   - Rebalance annually with bonus + spare cash; avoid selling to rebalance
+   - Rebalance to target allocation
 
   
 # Reasonable things that I will NOT do (for now)
 - Gold
--- Could be used as another uncorrelated asset class to improve returns and volatility
--- Still seen by enough people as a form of money and safe haven to have great runs, e.g. 1970s and 2000s
--- But: not a productive asset, expected real return is zero
--- High degree of speculation makes it hard to reason about gold
+  - Could be used as another uncorrelated asset class to improve returns and volatility
+  - Could be a very good insurance in today's environment (low interest rates, high instability of the EURO zone)
+  - Still seen by enough people as a form of money and safe haven to have great runs, e.g. 1970s and 2000s
+  - But: not a productive asset, expected real return is zero
+  - High degree of speculation makes it hard to reason about gold 
 - Finer-grained allocations by geography, size, term, etc (e.g. Asian small cap value, etc)
--- Too much complexity, too much of a time sink
+  - Too much complexity, too much of a time sink
 
 
 
