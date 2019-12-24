@@ -21,12 +21,12 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 ### Time horizon: Fundamentally "Longterm, but..."
 - Not indefinitely: 30 years to retirement (simple assumption for now!), 60 years to expected end of life
 - This asset allocation and investment plan is for an inexact, ~5 year horizon and may be revised then, because things can change:
-     -- changes in income
-     -- business formation
-     -- relocation to other jurisdiction
-     -- home purchase, family
-     -- external changes, e.g., drastic tax code changes
-     -- availability of new financial instruments, e.g. great new types of Vanguard funds
+  - changes in income
+  - business formation
+  - relocation to other jurisdiction
+  - home purchase, family
+  - external changes, e.g., drastic tax code changes
+  - availability of new financial instruments, e.g. great new types of Vanguard funds
 - Sequence-of-returns risk therefore matters, unlimited volatility is undesirable
 
 ### Risk preference
