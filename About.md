@@ -3,6 +3,6 @@ title: About
 layout: page
 ---
 
-# About e
+# About me
 
 Details are coming soon.
