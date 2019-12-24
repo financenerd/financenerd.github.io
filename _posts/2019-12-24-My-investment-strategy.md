@@ -90,7 +90,7 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
    - Rebalance to target allocation
 
   
-# Reasonable things that I will NOT do (for now)
+## Reasonable things that I will NOT do (for now)
 - Gold
   - Could be used as another uncorrelated asset class to improve returns and volatility
   - Could be a very good insurance in today's environment (low interest rates, high instability of the EURO zone)
