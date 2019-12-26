@@ -14,7 +14,7 @@ But before the comparison, I would like to shed a light on why banks provide fre
 Now, find below a comparison table of bank providers. The clear winner for me is CLER bank!
 I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list:
 
-| Bank | No of employees | Account type | Annual account fees | Mandatory card fees | Opening costs | Interest rates | Other | Source|
+| Bank | Account type | Annual account fees | Mandatory card fees | Opening costs | Interest rates | Other | Source|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| UBS  |66'888| Private account | 60 CHF | Free | Free | 0% | For adolescents until 22 years the "Generation" account is offered for free. Similarly, students until 30 have access to a free account until 30 | https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html |
+| UBS  | Private account | 60 CHF | Free | Free | 0% | N/A | [Click here] (https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
 
