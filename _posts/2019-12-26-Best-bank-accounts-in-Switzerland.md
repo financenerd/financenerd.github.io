@@ -15,6 +15,6 @@ Now, find below a comparison table of bank providers. The clear winner for me is
 I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list:
 
 | Bank | Account type | Annual account fees | Mandatory card fees | Opening costs | Interest rates | Other | Source|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | UBS  | Private account | 60 CHF | Free | Free | 0% | N/A | [Click here] (https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
 
