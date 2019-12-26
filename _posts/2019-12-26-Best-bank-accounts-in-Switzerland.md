@@ -42,6 +42,8 @@ Of course there is more but this is the basics. As with other banks, you want to
 **Another nice feature is that you can refer your friends. This way, you AND your friend receive 50 CHF. So if you are curious I would be extremely thankful if you would use my referral code and we will BOTH benefit: 772W5O. Please note: I would NOT recommend it if I would not be 100% convinced of CLER. I absolutely love it and only therefore recommend it. In fact, my girlfriend and several of my close friends also use and like it!**
 Afterwards, you can also refer your friends and continue. So you will again receive free 50CHF and your friends, too.
 
+![alt text](https://ibb.co/wLwpxH6)
+
 
 
 
