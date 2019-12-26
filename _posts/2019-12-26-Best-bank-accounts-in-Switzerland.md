@@ -40,10 +40,10 @@ I can highly recommend ZAK, it has all the basic features I was looking for:
 Of course there is more but this but this is the essentials. As with other banks, you want to make sure to tick the box saying you do not want to receive monthly paper statements and instead receive them on your account (to save the environment AND avoid costs).
 
 **Another nice feature is that you can refer your friends. This way, you AND your friend receive 50 CHF. So if you are curious I would be extremely thankful if you would use my referral code and we will BOTH benefit from 50CHF: 772W5O** 
+Please note: I would NOT recommend it if I would not be 100% convinced of CLER. I absolutely love it and only therefore recommend it. In fact, I also recommended it to my girlfriend and a growing numbers of our friends are adopting it too (especially previous PostFinance clients). Afterwards, you can also refer your friends and continue to receive 50CHF which is a nice perk!
 
 <img src="images/ZAK.JPG">
 
-Please note: I would NOT recommend it if I would not be 100% convinced of CLER. I absolutely love it and only therefore recommend it. In fact, I also recommended it to my girlfriend and a growing numbers of our friends are adopting it too (especially previous PostFinance clients). Afterwards, you can also refer your friends and continue to receive 50CHF which is a nice perk!
 
 
 
