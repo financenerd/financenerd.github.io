@@ -23,8 +23,9 @@ I looked for the 10 largest banks and researched their principal costs (annual a
 | Zürcher Kantonalbank (private account) | 12 CHF | 40 CHF | 0% | N/A | [Click here](https://www.zkb.ch/media/pub/zahlen/privatkunden-preise-konditionen-219923.pdf) |
 | Postfinance (basiv private account) | 60 CHF (as of 2019) | Free | 0% | N/A | [Click here](https://www.postfinance.ch/en/detail/pricing-2019/private-customers.html) |
 | Banque Cantonale Vaudoise ("direct account") | 42 CHF (first 6 mths free) | Free | 0% | N/A | [Click here](https://www.bcv.ch/en/Personal-Banking/Produits/Account-rates-and-conditions) |
-| Basler Kantonalbank (private account | 60 CHF (if <10k CHF on account), otherwise: Free | 50 CHF | 0% | Closure fee: 10 CHF | [Click here](https://www.blkb.ch/kundencenter/preise-fuer-privatpersonen) |
-|
+| Basler Kantonalbank (private account | 60 CHF (if <10k CHF on account), otherwise: Free | 50 CHF | 0% | Account closure: 10 CHF | [Click here](https://www.blkb.ch/kundencenter/preise-fuer-privatpersonen) |
+| Luzener Kantonalbank (e-private account) | 50 CHF | 40 CHF | 0% | Account closure: 20 CHF | [Click here](https://www.lukb.ch/documents/38421/318495/LUKB-Dienstleistungspreise-Privatkunden.pdf/828c1e34-7108-e7ac-a42e-206131185148?t=1567154269632) |
+
 
 
 Generally, opening costs were 0.
