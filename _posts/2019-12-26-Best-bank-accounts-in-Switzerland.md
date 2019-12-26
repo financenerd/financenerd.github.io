@@ -15,16 +15,19 @@ You might think "Hey, it is not that much and I don't want to bother", and this 
 Now, find below a comparison table of bank providers. **The clear winner for me is CLER bank!**
 I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list (data as of 26.12.2019):
 
-| Bank | Annual account fees | Card fees (for Maestro card) | Interest rates | Other | Source|
+| Bank | Annual account fees | Card fees (for Maestro card) | Interest rates | Other | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | UBS (private account) | 36 CHF (if statements delivered digitally + >10k CHF on the account), otherwise: 60 CHF | Fee not disclosed | 0% | N/A | [Click here](https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
 | Credit Suisse (private account) | 60 CHF | 50 CHF | 0% | N/A | [Click here](https://www.credit-suisse.com/ch/de/privatkunden/konto-karten/privatkonto.html) |
 | Raiffeisen (private account) | N/A | 40 CHF | 0% | Account closure: 15 CHF | [Click here](https://www.raiffeisen.ch/content/dam/www/zuerich-flughafen/pdf/privatkunden_de.pdf) |
 | Zürcher Kantonalbank (private account) | 12 CHF | 40 CHF | 0% | N/A | [Click here](https://www.zkb.ch/media/pub/zahlen/privatkunden-preise-konditionen-219923.pdf) |
-| Postfinance (basiv private account) | 60 CHF (as of 2019) | Free | 0% | N/A | [Click here](https://www.postfinance.ch/en/detail/pricing-2019/private-customers.html) |
-| Banque Cantonale Vaudoise ("direct account") | 42 CHF (first 6 mths free) | Free | 0% | N/A | [Click here](https://www.bcv.ch/en/Personal-Banking/Produits/Account-rates-and-conditions) |
+| Postfinance (basic private account) | 60 CHF (as of 2019) | Free | 0% | N/A | [Click here](https://www.postfinance.ch/en/detail/pricing-2019/private-customers.html) |
+| Banque Cantonale Vaudoise ("direct account") | 42 CHF (first 6 months free) | Free | 0% | N/A | [Click here](https://www.bcv.ch/en/Personal-Banking/Produits/Account-rates-and-conditions) |
 | Basler Kantonalbank (private account | 60 CHF (if <10k CHF on account), otherwise: Free | 50 CHF | 0% | Account closure: 10 CHF | [Click here](https://www.blkb.ch/kundencenter/preise-fuer-privatpersonen) |
 | Luzener Kantonalbank (e-private account) | 50 CHF | 40 CHF | 0% | Account closure: 20 CHF | [Click here](https://www.lukb.ch/documents/38421/318495/LUKB-Dienstleistungspreise-Privatkunden.pdf/828c1e34-7108-e7ac-a42e-206131185148?t=1567154269632) |
+| Cler (ZAK account) | 0 CHF | 0 CHF | 0% | Opening an account is rewarded with 50 CHF | [Click here](https://www.cler.ch/de/privatkunden/konten-und-karten#anchor=konten
+)|
+
 
 
 
