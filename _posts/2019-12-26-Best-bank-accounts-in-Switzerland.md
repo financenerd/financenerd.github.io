@@ -16,7 +16,7 @@ Now, find below a comparison table of bank providers. **The clear winner for me 
 I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list (data as of 26.12.2019):
 
 | Bank | Annual account fees | Card fees (for Maestro card) | Interest rates | Other | Source|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | UBS (private account) | 36 CHF (if statements delivered digitally + >10k CHF on the account), otherwise: 60 CHF | Fee not disclosed | 0% | N/A | [Click here](https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
 | Credit Suisse (private account) | 60 CHF | 50 CHF | 0% | N/A | [Click here](https://www.credit-suisse.com/ch/de/privatkunden/konto-karten/privatkonto.html) |
 | Raiffeisen (private account) | N/A | 40 CHF | 0% | Account closure: 15 CHF | [Click here](https://www.raiffeisen.ch/content/dam/www/zuerich-flughafen/pdf/privatkunden_de.pdf) |
