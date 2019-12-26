@@ -12,9 +12,13 @@ Previously, I have been with Zürcher Kantonalbank (ZKB) as well as UBS that off
 But before the comparison, I would like to shed a light on why banks provide free services to young adolescents / students. This principle is often referred to as a "bait" offering. You provide something for free early (e.g., when you are young), attract young customers with great offers (such as using the night trains /trams for free), and then charge afterwards. On the longterm, you are going to pay them high fees. The reason this is so widespread in banking is that people typically do not change banks. It is associated with effort such as you need to inform your employer to use a different IBAN for payments, maybe you have standing orders, you spend some time closing the old account and opening the new one etc. *People typically stick to their bank, even if their offering does not suit individual requirements!*. You might think "Hey, it is not that much and I don't want to bother", and this is what they bank on. Nevertheless, significant costs can be reduced when comparing the offering (and this is true for everything: From banks, insurances, flats and all sorts of things) and these costs do add up. I highly recommend doing some limited research to reduce these costs. In the end, it is also about promoting healthy competition: Why not reward innovation / better services? If everyone simply sticks to a service forever, there is little incentive to get better at all.
 
 Now, find below a comparison table of bank providers. The clear winner for me is CLER bank!
-I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list:
+I looked for the 10 largest banks and researched their principal costs (annual account fees, card fees and the like). I excluded Julius Bär as private bank, and see below the compiled list (data as of 26.12.2019):
 
-| Bank | Account type | Annual account fees | Mandatory card fees | Opening costs | Interest rates | Other | Source|
+| Bank | Account type | Annual account fees | Card fees (for Maestro card) | Opening costs | Interest rates | Other | Source|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| UBS  | Private account | 60 CHF | Free | Free | 0% | N/A | [Click here] (https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
+| UBS | Private | 36 CHF (if paper statements delivered digitally and assets of >10k CHF on the account), otherwise: 60 CHF | Fee not disclosed | Free | 0% | N/A | [Click here] (https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
+| Credit Suisse | Private | 60 CHF | 50 CHF | Free | 0% | N/A | [Click here] (https://www.credit-suisse.com/ch/de/privatkunden/konto-karten/privatkonto.html) |
+| Raiffeisen Schweiz | Private | N/A | 40 CHF | Free | 0% | Account closure: 15 CHF | (Click here) [https://www.raiffeisen.ch/content/dam/www/zuerich-flughafen/pdf/privatkunden_de.pdf] |
+
+
 
