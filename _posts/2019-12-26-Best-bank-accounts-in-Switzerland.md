@@ -16,9 +16,9 @@ I looked for the 10 largest banks and researched their principal costs (annual a
 
 | Bank | Account type | Annual account fees | Card fees (for Maestro card) | Opening costs | Interest rates | Other | Source|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| UBS | Private | 36 CHF (if paper statements delivered digitally and assets of >10k CHF on the account), otherwise: 60 CHF | Fee not disclosed | Free | 0% | N/A | [Click here] (https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
-| Credit Suisse | Private | 60 CHF | 50 CHF | Free | 0% | N/A | [Click here] (https://www.credit-suisse.com/ch/de/privatkunden/konto-karten/privatkonto.html) |
-| Raiffeisen Schweiz | Private | N/A | 40 CHF | Free | 0% | Account closure: 15 CHF | (Click here) [https://www.raiffeisen.ch/content/dam/www/zuerich-flughafen/pdf/privatkunden_de.pdf] |
+| UBS | Private | 36 CHF (if statements delivered digitally + >10k CHF on the account), otherwise: 60 CHF | Fee not disclosed | Free | 0% | N/A | [Click here](https://www.ubs.com/ch/de/private/accounts-and-cards/accounts/personal-account.html) |
+| Credit Suisse | Private | 60 CHF | 50 CHF | Free | 0% | N/A | [Click here](https://www.credit-suisse.com/ch/de/privatkunden/konto-karten/privatkonto.html) |
+| Raiffeisen Schweiz | Private | N/A | 40 CHF | Free | 0% | Account closure: 15 CHF | [Click here](https://www.raiffeisen.ch/content/dam/www/zuerich-flughafen/pdf/privatkunden_de.pdf) |
 
 
 
