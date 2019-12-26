@@ -26,8 +26,7 @@ I looked for the 10 largest banks and researched their principal costs (annual a
 | Banque Cantonale Vaudoise ("direct account") | 42 CHF (first 6 months free) | Free | 0% | N/A | [Click here](https://www.bcv.ch/en/Personal-Banking/Produits/Account-rates-and-conditions) |
 | Basler Kantonalbank (private account | 60 CHF (if <10k CHF on account), otherwise: Free | 50 CHF | 0% | Account closure: 10 CHF | [Click here](https://www.blkb.ch/kundencenter/preise-fuer-privatpersonen) |
 | Luzener Kantonalbank (e-private account) | 50 CHF | 40 CHF | 0% | Account closure: 20 CHF | [Click here](https://www.lukb.ch/documents/38421/318495/LUKB-Dienstleistungspreise-Privatkunden.pdf/828c1e34-7108-e7ac-a42e-206131185148?t=1567154269632) |
-| **Cler (ZAK account)** | 0 CHF | 0 CHF | 0% | Opening an account is rewarded with 50 CHF | [Click here](https://www.cler.ch/de/privatkunden/konten-und-karten#anchor=konten
-)|
+| **Cler (ZAK account)** | 0 CHF | 0 CHF | 0% | Opening an account is rewarded with 50 CHF | [Click here](https://www.cler.ch/de/privatkunden/konten-und-karten#anchor=konten)|
 
 Unsurprisingly, interest rates are currently at 0% so it really comes down to cost. Opening the accounts were 0 CHF throughout and is not a differentiating factor. With annual fees for holding the account and (often mandatory) fees for holding a maestro card the picture is very clear: Cler is the least expensive service. One should always consider other less direct costs too, such as the cost for transactions (see Migros), withdrawing money (if you often withdraw money and use cash, then large banks with many ATMs such as UBS are favorable) or (monthly) paper statements.
 Worthy of note is PostFinance, which has offered free accounts until 2019. They have changed their policies leading to many people (including me) to change provider.
