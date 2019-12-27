@@ -43,7 +43,7 @@ Of course there is more but this but this is the essentials. As with other banks
 
 Please note: I would NOT recommend it if I would not be 100% convinced of CLER. I absolutely love it and only therefore recommend it. In fact, I also recommended it to my girlfriend and a growing numbers of our friends are adopting it too (especially previous PostFinance clients). Afterwards, you can also refer your friends and continue to receive 50CHF which is a nice perk!
 
-<img src="images/ZAK.JPEG">
+<img src="./images/ZAK.JPEG">
 
 
 
