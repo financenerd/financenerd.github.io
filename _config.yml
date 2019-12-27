@@ -7,7 +7,8 @@ url: "https://financenerd.github.io/" # change this to the base hostname & proto
 
 
 google_analytics:
-
+# Google Analytics
+google_analytics: UA-154888004-1
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
