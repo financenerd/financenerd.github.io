@@ -8,6 +8,7 @@ category: lifehacks
 
 <img src="https://raw.githubusercontent.com/financenerd/financenerd.github.io/master/_posts/images/bank.PNG">
 
+
 Dear all,
 
 This year, I have moved from UK back to CH and needed to re-open a bank account to receive income. But what banks offer the cheapest services? Personally, I look for very basic things:
