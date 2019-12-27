@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: This blog is about personal finance and investing in Switzerland
 permalink: /about.html
 ref: about
 order: 0
