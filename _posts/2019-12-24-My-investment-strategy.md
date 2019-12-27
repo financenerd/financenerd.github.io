@@ -9,10 +9,11 @@ Hello world,
 What would be a better start than to discuss my investment strategy?
 
 This strategy has been influenced by talking to friends and reading a variety of investment books, most notably Ben Graham's "The intelligent investor". This is a fantastic book about investing, and has influenced such great professionals as Warren Buffet.
+(At times it is repetitive, and not the easiest read. But I warmly recommend it to beginners as it beautifully covers important and essential basics!).
 
 In short, I take a long-term, buy-and-hold strategy. I emphasize starting to invest early, living below my means, diversification, simplicity, and sticking to my investment plan "regardless" of market conditions. (I will soon dedicate an separate article about why!).
 
-Over the longrun, I expect to achieve returns of 6-8% on the stock market and invest very little time (I am no professional investor, although finance is so much fun!). 
+Over the long-run, I expect to achieve returns of 6-8% on the stock market and invest very little time (I am no professional investor, although finance is so much fun!). 
 
 
 
@@ -31,7 +32,7 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 
 ### Risk preference
 - I am young (28 years) and my time horizon is fairly long. Thus, I somewhat accept the historical volatilities of the total stock market for now (up to 10-20 year stretches of negative returns!)
-- However, the older I become, the more I will need to emphasize more limited volatility in my future asset allocation
+- However, the older I become, the more I will need to emphasize limited volatility in my future asset allocation
 - Also, the psychological burden of decades of underperformance will be increasingly challenging (who wants to see his/her money lose its value month after month for years?)
 - Also must hedge against non-market personal financial exposure: I want to hedge my personal and professional commitment to Switzerland by overweighting US markets
 
@@ -52,8 +53,8 @@ Over the longrun, I expect to achieve returns of 6-8% on the stock market and in
 ### Cash and fixed income investment
 
 - In current environment, bonds are unattractive
-  - short term bonds have yields ~ savings account
-  - long term bonds lock me into longterm low yields
+  - short-term bonds have yields ~ savings account
+  - long-term bonds lock me into longterm low yields
   - bond funds will lose value if rates rise
   
 ### Equity allocation
