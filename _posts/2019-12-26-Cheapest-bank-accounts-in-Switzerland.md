@@ -3,6 +3,7 @@ layout: post
 title: "Cheapest bank account in Switzerland [Comparison]"
 description: "Comparative overview and why changing banks is worth it"
 permalink: "https://financenerd.github.io/cheapest_bank_in_switzerland"
+category: lifehacks useful_tools 
 ---
 
 
