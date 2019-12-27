@@ -24,8 +24,6 @@ image: /thumbnail-jumbo.png
 
 plugins:
 - jekyll-feed
-  
-gems:
 - jekyll-seo-tag
   
 
