@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cheapest bank account in Switzerland [Comparison]"
-description: "Comparative overview and why changing banks is worth it"
+description: "Comparison of Swiss banks and why changing banks is worth it"
 permalink: "cheapest_bank_in_switzerland"
 category: lifehacks
 ---
