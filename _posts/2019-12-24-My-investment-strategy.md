@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My investment strategy"
+description: "A longterm, diversified buy and hold portfolio"
 image: /thumbnail-mobile.png
 ---
 
