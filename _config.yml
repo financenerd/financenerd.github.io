@@ -1,5 +1,5 @@
-title: Financenerd 
-description: Investing | Reaching financial independence | Lifehacks in Switzerland
+title: Swiss financenerd 
+description: Investing | Personal Finance | Lifehacks in Switzerland
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -7,15 +7,6 @@ url: "https://financenerd.github.io/" # change this to the base hostname & proto
 
 
 google_analytics:
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154888004-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-154888004-1');
-</script>
 
 
 # cayman-blog date format
