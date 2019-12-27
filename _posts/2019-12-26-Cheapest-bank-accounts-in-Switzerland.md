@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Cheapest bank account in Switzerland [Comparison]"
+description: "Comparative overview and why changing banks is worth it"
+---
+
 Dear all,
 
 This year, I have moved from UK back to CH and needed to re-open a bank account to receive income. But what banks offer the cheapest services? Personally, I look for very basic things:
