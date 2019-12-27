@@ -6,7 +6,7 @@ permalink: "cheapest_bank_in_switzerland"
 category: lifehacks
 ---
 
-
+<img src="https://raw.githubusercontent.com/financenerd/financenerd.github.io/master/_posts/images/bank.PNG">
 
 Dear all,
 
