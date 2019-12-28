@@ -28,7 +28,7 @@ Over the long-run, I expect to achieve returns of 6-8% on the stock market and i
   - relocation to other jurisdiction
   - home purchase, family
   - external changes, e.g., drastic tax code changes
-  - availability of new financial instruments, e.g. great new types of Vanguard funds
+  - availability of new financial instruments, e.g. great new types of Vanguard ETFs 
 - Sequence-of-returns risk therefore matters, unlimited volatility is undesirable
 
 ### Risk preference
@@ -38,11 +38,13 @@ Over the long-run, I expect to achieve returns of 6-8% on the stock market and i
 - Also must hedge against non-market personal financial exposure: I want to hedge my personal and professional commitment to Switzerland by overweighting US markets
 
 ### Performance targets and criteria
-- Manageable complexity
+- Manageable complexity 
 - Average annual real returns 1972-present at least 6-8% (vs. 7.5% for total stock market)
 - Longest drawdown < 10 yrs (vs. 13 yrs for US total stock mkt)
 - Finally, both to limit complexity and for professional reasons, no active investing and no individual stocks at this time
-
+  - Instead, I will rely on [ETFs](https://www.investopedia.com/terms/e/etf.asp) 
+  >What are ETFs? 
+  >ETFs are "indexed funds", collections of stocks that mimic large indices such as the S&P500. Easily put, by owning an ETF you own a portion of ALL stocks of that index. This means you avoid the complexity and costs associated to buying and keeping track of all these stocks, and buy 1 ETF instead. E.g., by buying an ETF indexing the S&P500, which contain the largest 500 US companies, you are essentially buying these 500 companies at once. ETFs not only reduce complexity and effort, they are also typically passively managed, and thus extremely low-cost and efficient.
 
 ## Asset allocation, fund selection, and fund placement
 
