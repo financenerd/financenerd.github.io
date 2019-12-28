@@ -29,6 +29,7 @@ plugins:
 
 gems:
 - jekyll-seo-tag
+- jekyll-sitemap
   
 
 target-blank:
